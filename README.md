@@ -1,4 +1,4 @@
-# :note: Note App with React
+# 📝 Note App with React
 
 ## Project Features
 
