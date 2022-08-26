@@ -7,6 +7,7 @@
 :heavy_check_mark: Update note <br />
 :heavy_check_mark: Color catalog <br />
 :heavy_check_mark: Search Note <br />
+:heavy_check_mark: Responsive <br />
 
 ## :fire: Technologies and Libraries
 
